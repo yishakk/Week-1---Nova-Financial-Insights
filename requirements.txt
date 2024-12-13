@@ -2,8 +2,5 @@ pandas
 numpy
 matplotlib
 seaborn
-nltk
 textblob
-scikit-learn
-gensim
 jupyterlab
