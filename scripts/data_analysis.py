@@ -1,4 +1,5 @@
 import pandas as pd
+import textblob as TextBlob
 
-def caluculate_moving_average(data,window):
-    return data.rolling(window=window).mean()
+def get_sentiment(text):
+    return TextBlob(text).sentiment.polarity

@@ -23,5 +23,8 @@ This repository contains scripts and tools to analyze a dataset of news headline
 5. **Publisher Analysis**
    - Determine which publishers contribute the most news.
    - Explore differences in the types of news reported by publishers.
-
+6. **Financial Analyzers**
+   - All Financial analyziers with all plots.
+7. **Correlation Analysis**
+   - Correlation between stock prices with news sentiment.
 ---
